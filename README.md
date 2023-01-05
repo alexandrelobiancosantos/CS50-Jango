@@ -58,3 +58,15 @@ criar urls.py dentro do diretorio hello
 2- Upgrade HttpResponse para Render nas funções definidas em views.py
 criar template html
 
+---
+Novo app: 37:00
+Fluxo de trabalho para um novo app newyear:
+>python manage.py startapp newyear
+Adicionar novo app, newyear, em lecture3/settings.py
+Adiconar path em lecture3/urls.py
+Criar urls.py na pasta da app newyear
+Criar função index em views com logica em python para capturar valor da data atual
+Criar template html em templates/newyear/index.html com logica de if para testar se é ano novo
+
+
+
