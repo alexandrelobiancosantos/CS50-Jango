@@ -81,4 +81,15 @@ Herança
 Criar arquivo layout.html
 1:00:00 : solução para incluir sidebar em multiplas paginas
 ---
+links entre apps
+---
+açoes
+---
+aviso de falha de segurança:
+cross setion request form
+CSRF verification failed. Request aborted.
+token de segurança para submissão de fomrulário
+
+---
+validação do lado do cliente não funciona. 1:17:00
 
