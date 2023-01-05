@@ -53,3 +53,8 @@ criar urls.py dentro do diretorio hello
 12-criar nova função em views.py
 
 
+----
+1- Criar função com placeholders
+2- Upgrade HttpResponse para Render nas funções definidas em views.py
+criar template html
+
