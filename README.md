@@ -48,3 +48,8 @@ criar urls.py dentro do diretorio hello
 10-adicionar path do app no urls.py da pasta do projeto
 
 11-Rodar projeto
+
+
+12-criar nova função em views.py
+
+
