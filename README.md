@@ -70,7 +70,12 @@ Criar template html em templates/newyear/index.html com logica de if para testar
 ---
 arquivos estaticos, como style.css
 ---
-
-
-
+Novo app tasks
+>python manage.py startapp tasks
+Adicionar novo app, tasks, em lecture3/settings.py
+Adiconar path em lecture3/urls.py
+Criar função index em views com logica em python que define a lista de tarefas
+Criar template html em templates/tasks/index.html com logica de loop para varrer a lista de tarefas definidas na função
+---
+Herança
 
