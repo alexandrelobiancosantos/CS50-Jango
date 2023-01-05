@@ -67,6 +67,10 @@ Adiconar path em lecture3/urls.py
 Criar urls.py na pasta da app newyear
 Criar função index em views com logica em python para capturar valor da data atual
 Criar template html em templates/newyear/index.html com logica de if para testar se é ano novo
+---
+arquivos estaticos, como style.css
+---
+
 
 
 
