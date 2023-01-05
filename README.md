@@ -78,4 +78,7 @@ Criar função index em views com logica em python que define a lista de tarefas
 Criar template html em templates/tasks/index.html com logica de loop para varrer a lista de tarefas definidas na função
 ---
 Herança
+Criar arquivo layout.html
+1:00:00 : solução para incluir sidebar em multiplas paginas
+---
 
