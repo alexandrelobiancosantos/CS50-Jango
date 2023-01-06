@@ -2,6 +2,7 @@
 CS50 - Django - Aula 3
 Alexandre Lo Bianco
 
+Resumo da aula de Django do curso CS50 Harvard
 
 Django: Web Framework
 
@@ -59,7 +60,7 @@ criar urls.py dentro do diretorio hello
 criar template html
 
 ---
-Novo app: 37:00
+Para criar um novo app
 Fluxo de trabalho para um novo app newyear:
 >python manage.py startapp newyear
 Adicionar novo app, newyear, em lecture3/settings.py
@@ -92,4 +93,9 @@ token de segurança para submissão de fomrulário
 
 ---
 validação do lado do cliente não funciona. 1:17:00
+faltava um ">" no fechamento da tag de fomr
+
+---
+sessoes
+deletar variavel global tasks
 
